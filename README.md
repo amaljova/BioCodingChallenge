@@ -3,7 +3,7 @@ This is a repo for codes I've written when I participated in the qualifying roun
 
 # Epigenomic
 
-[Epigenomics.png](/Questions/Epigenomics.png)
+![Epigenomics.png](/Questions/Epigenomics.png)
 ![Epigenomics_problem.png](/Questions/Epigenomics_problem.png)
 
 > [Download all data for Epigenomic problems](https://stepik.org/media/attachments/lesson/541851/all.zip)
@@ -21,8 +21,8 @@ This is a repo for codes I've written when I participated in the qualifying roun
 
 # Metabolite Annotation
 
-![MetabolicAnnotation.png](https://github.com/amaljova/BioCodingChallenge/tree/master/Questions/MetabolicAnnotation.png?raw=true)
-![MetabolicAnnotation_problem.png](https://github.com/amaljova/BioCodingChallenge/tree/master/Questions/MetabolicAnnotation_problem.png?raw=true)
+![MetabolicAnnotation.png](/Questions/MetabolicAnnotation.png?raw=true)
+![MetabolicAnnotation_problem.png](/Questions/MetabolicAnnotation_problem.png?raw=true)
 
 > [Download all data for Metabolite Annotation problems](https://stepik.org/media/attachments/lesson/541850/all.zip)
 
@@ -52,8 +52,8 @@ This is a repo for codes I've written when I participated in the qualifying roun
 
 # Diagnosis
 
-![Diagnosis.png](https://github.com/amaljova/BioCodingChallenge/tree/master/Questions/Diagnosis.png?raw=true)
-![Diagnosis_problem.png](https://github.com/amaljova/BioCodingChallenge/tree/master/Questions/Diagnosis_problem.png?raw=true)
+![Diagnosis.png](/Questions/Diagnosis.png?raw=true)
+![Diagnosis_problem.png](/Questions/Diagnosis_problem.png?raw=true)
 
 > Download all data for Disease Diagnosis problems
 
