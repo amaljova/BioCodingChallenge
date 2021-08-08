@@ -3,7 +3,7 @@ This is a repo for codes I've written when I participated in the qualifying roun
 
 # Epigenomic
 
-![Epigenomics.png](https://github.com/amaljova/BioCodingChallenge/tree/master/Questions/Epigenomics.png)
+![Epigenomics.png](/Questions/Epigenomics.png)
 ![Epigenomics_problem.png](https://github.com/amaljova/BioCodingChallenge/tree/master/Questions/Epigenomics_problem.png)
 
 > [Download all data for Epigenomic problems](https://stepik.org/media/attachments/lesson/541851/all.zip)
