@@ -1,5 +1,5 @@
 # BioCodingChallenge
-This is a repo for codes I've written when I participated in the qualifying round of Bioinformatics Contest 2021 conducted during 12-19 June 2021. All the questions are stored in the Questions dir. Links to the data are listed below.
+This is a repo for codes I've written when I participated in the qualifying round of Rosalind Bioinformatics programming Contest (https://bioinf.me/en/contest) 2021 conducted during 12-19 June 2021. All the questions are stored in the Questions dir. Links to the data are listed below.
 
 ## Epigenomic
 > Download all data for Epigenomic problems
