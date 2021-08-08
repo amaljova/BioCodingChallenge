@@ -1,7 +1,14 @@
 # BioCodingChallenge
-This is a repo for codes I've written when I participated in the qualifying round of Rosalind Bioinformatics programming Contest (https://bioinf.me/en/contest) 2021 conducted during 12-19 June 2021. All the questions are stored in the Questions dir. Links to the data are listed below.
+This is a repo for codes I've written when I participated in the qualifying round of [Rosalind Bioinformatics programming Contest](https://bioinf.me/en/contest) 2021 conducted during 12-19 June 2021. All the questions are stored in the Questions dir. Links to the data are listed below.
 
 ## Epigenomic
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 > Download all data for Epigenomic problems
 * https://stepik.org/media/attachments/lesson/541851/all.zip
 
@@ -13,7 +20,7 @@ This is a repo for codes I've written when I participated in the qualifying roun
 > In this version, nn does not exceed 100100 and ll does not exceed 1000010000.
 * Download the test from https://stepik.org/media/attachments/lesson/541851/2.zip
 
-####Here you can download the answers to the tests.
+#### Here you can download the answers to the tests.
 * https://stepik.org/media/attachments/lesson/541851/answers.zip
 
 ## Metabolite Annotation
