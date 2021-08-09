@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Amal Joseph Varghese
+@email: amaljova@gmail.com
+
+"""
+
 
 def locFind(target_seq,query_seq):
     start, end = 0, len(query_seq)
